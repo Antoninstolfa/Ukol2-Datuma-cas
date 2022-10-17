@@ -1,0 +1,10 @@
+C:\Users\stolfaa.04\Desktop\Úkol2 Datum a čas\Úkol2 Datum a čas\bin\Debug\Úkol2 Datum a čas.exe.config
+C:\Users\stolfaa.04\Desktop\Úkol2 Datum a čas\Úkol2 Datum a čas\bin\Debug\Úkol2 Datum a čas.exe
+C:\Users\stolfaa.04\Desktop\Úkol2 Datum a čas\Úkol2 Datum a čas\bin\Debug\Úkol2 Datum a čas.pdb
+C:\Users\stolfaa.04\Desktop\Úkol2 Datum a čas\Úkol2 Datum a čas\obj\Debug\Úkol2 Datum a čas.csprojAssemblyReference.cache
+C:\Users\stolfaa.04\Desktop\Úkol2 Datum a čas\Úkol2 Datum a čas\obj\Debug\Úkol2_Datum_a_čas.Form1.resources
+C:\Users\stolfaa.04\Desktop\Úkol2 Datum a čas\Úkol2 Datum a čas\obj\Debug\Úkol2_Datum_a_čas.Properties.Resources.resources
+C:\Users\stolfaa.04\Desktop\Úkol2 Datum a čas\Úkol2 Datum a čas\obj\Debug\Úkol2 Datum a čas.csproj.GenerateResource.cache
+C:\Users\stolfaa.04\Desktop\Úkol2 Datum a čas\Úkol2 Datum a čas\obj\Debug\Úkol2 Datum a čas.csproj.CoreCompileInputs.cache
+C:\Users\stolfaa.04\Desktop\Úkol2 Datum a čas\Úkol2 Datum a čas\obj\Debug\Úkol2 Datum a čas.exe
+C:\Users\stolfaa.04\Desktop\Úkol2 Datum a čas\Úkol2 Datum a čas\obj\Debug\Úkol2 Datum a čas.pdb
